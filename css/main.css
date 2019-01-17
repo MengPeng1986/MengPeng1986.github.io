@@ -1872,6 +1872,10 @@ pre .javascript .function {
   font-size: 13px;
   color: #999;
 }
+.site-author-image:hover {
+  -webkit-animation: jello 1s;
+  animation: jello 1s;
+}
 .site-state {
   overflow: hidden;
   line-height: 1.4;
@@ -1940,7 +1944,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #3b5536;
 }
 .links-of-blogroll {
   font-size: 13px;
