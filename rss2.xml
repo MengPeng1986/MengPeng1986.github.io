@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>B-King</title>
+    <link>http://mengpeng1986.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>The only way to learn is to LU</description>
+    <pubDate>Thu, 17 Jan 2019 11:17:32 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://mengpeng1986.github.io/2019/10/09/7788/</link>
+      <guid>http://mengpeng1986.github.io/2019/10/09/7788/</guid>
+      <pubDate>Wed, 09 Oct 2019 15:30:56 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><p>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \\<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \\<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p>]]></content:encoded>
+      
+      <comments>http://mengpeng1986.github.io/2019/10/09/7788/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>测试出如图片</title>
+      <link>http://mengpeng1986.github.io/2019/01/17/%E6%B5%8B%E8%AF%95%E5%87%BA%E5%A6%82%E5%9B%BE%E7%89%87/</link>
+      <guid>http://mengpeng1986.github.io/2019/01/17/%E6%B5%8B%E8%AF%95%E5%87%BA%E5%A6%82%E5%9B%BE%E7%89%87/</guid>
+      <pubDate>Thu, 17 Jan 2019 09:59:10 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt; &lt;img src=&quot;/2019/01/17/测试出如图片/不靠谱.jpg&quot; alt=&quot;到底靠不靠谱？诶哦我叫荣I奇偶群殴我ie就去哦我ie进去群殴我I今儿去哦I金额群殴我ie就去哦iJOQI我家都iqOQIWEJQOI &quot;&gt;&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p> <img src="/2019/01/17/测试出如图片/不靠谱.jpg" alt="到底靠不靠谱？诶哦我叫荣I奇偶群殴我ie就去哦我ie进去群殴我I今儿去哦I金额群殴我ie就去哦iJOQI我家都iqOQIWEJQOI "></p>]]></content:encoded>
+      
+      <comments>http://mengpeng1986.github.io/2019/01/17/%E6%B5%8B%E8%AF%95%E5%87%BA%E5%A6%82%E5%9B%BE%E7%89%87/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://mengpeng1986.github.io/2019/01/17/hello-world/</link>
+      <guid>http://mengpeng1986.github.io/2019/01/17/hello-world/</guid>
+      <pubDate>Thu, 17 Jan 2019 08:51:31 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><p>$$<br>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \\<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \\<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}<br>$$</p>]]></content:encoded>
+      
+      <comments>http://mengpeng1986.github.io/2019/01/17/hello-world/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
